@@ -1,4 +1,4 @@
-package com.unvalued.Unvalued;
+package com.unvalued.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
