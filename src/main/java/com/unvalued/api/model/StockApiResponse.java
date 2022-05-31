@@ -1,9 +1,11 @@
 package com.unvalued.api.model;
 
+import lombok.Builder;
 import lombok.Data;
 
 import java.util.List;
 
+@Builder
 @Data
 public class StockApiResponse {
     private String adjusted;
